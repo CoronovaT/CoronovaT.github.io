@@ -30,7 +30,7 @@ layout: default
 ## 项目经历
 
 -研究开发\
-[三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术](./projects/digital_archive.html)
+[三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术](./projects/digital_archive.html)\
 -博士论文\
 -专利研发\
 [肘关节肌肉痉缩重症度评价支援系统的开发](./projects/muscle_injury.html)\
