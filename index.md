@@ -20,7 +20,7 @@ layout: default
 
 ## 项目经历
 [运用动作捕捉技术减少汽车组装时人工错误的技术](./projects/toyota.html).
-
+[Link to another page](./another-page.html).
 
 三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术
 内容：运用带深度传感器的摄像头(Intel realsense d435)，从采集到的RGB人像和深度输数据用TensorFlow里的动作识别库进行动作识别，并运将处理后的动作数据投射到3D人物模型上。
