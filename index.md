@@ -40,7 +40,8 @@ layout: default
 目前负责的部分：1.身体动作数据整体的降噪处理和各关节的位置数据算出姿势数据(欧拉角和矩阵的运算)。2. 调用google的机器学习平台TensorFlow已经训练好的人工智能模型(posenet)，取得人物的身体动作数据。并基于动作数据，训练人工智能网络，做动作识别。
 
 ## 证书
-安川机器手臂操作证
-
+安川机器手臂操作证\
+[DeepLearning.AI TensorFlow Developer(coursera结业证书)](./assets/certificate/coursera.md
+)
 ## 教学课程
 
