@@ -11,4 +11,4 @@ layout: default
 
 
 
-[back](../../index.html)
+[back](../../)
