@@ -8,7 +8,7 @@ layout: default
 [卷积网络(CNN)](./Coursera CNN.pdf)\
 [自然语言处理(NLP)](./Coursera NLP.pdf)\
 [时序数据处理(Sequences, Time Series)](./Coursera Sequence.pdf)
-_yay_
+
 
 
 [back](./)
