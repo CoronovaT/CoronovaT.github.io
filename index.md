@@ -41,7 +41,7 @@ layout: default
 
 ## 证书
 安川机器手臂操作证\
-[DeepLearning.AI TensorFlow Developer(coursera结业证书)](./assets/certificate/coursera.md
+[DeepLearning.AI TensorFlow Developer(coursera结业证书)](./assets/certificate/coursera.html)
 )
 ## 教学课程
 
