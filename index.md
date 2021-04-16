@@ -37,8 +37,7 @@ layout: default
 [运用动作捕捉技术减少汽车组装时人工错误的技术](./projects/toyota.html)
 
 [酒田市光陵高校(課題研究)](./projects/koryo/koryo.html)\
-内容：运用带深度传感器的摄像头(Intel realsense d435)，从采集到的RGB人像和深度输数据用TensorFlow里的动作识别库进行动作识别，并运将处理后的动作数据投射到3D人物模型上。
-目前负责的部分：1.身体动作数据整体的降噪处理和各关节的位置数据算出姿势数据(欧拉角和矩阵的运算)。2. 调用google的机器学习平台TensorFlow已经训练好的人工智能模型(posenet)，取得人物的身体动作数据。并基于动作数据，训练人工智能网络，做动作识别。
+
 
 ## 证书
 [安川机器手臂操作证](./assets/certificate/yasukawa/yasukawa.html)\
