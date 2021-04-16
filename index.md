@@ -45,4 +45,4 @@ layout: default
 [東北公益文科大学教员证（已过期）](./assets/certificate/koeki/koeki.html)
 
 ## 教学课程
-[東北公益文科大学教员证（已过期）](./assets/openCourse/openCourse.html)
+[2020年面向日本高中生的10分钟公开课](./assets/openCourse/openCourse.html)
