@@ -42,8 +42,8 @@ layout: default
 ## 证书
 [安川机器手臂操作证](./assets/certificate/yasukawa/yasukawa.html)\
 [DeepLearning.AI TensorFlow Developer(coursera结业证书)](./assets/certificate/coursera/coursera.html)\
-[東北公益文科大学教员证（已过期）](./assets/certificate/koeki/koeki.html)]\
-[日语N1](./assets/certificate/n1/n1.html)\
+[東北公益文科大学教员证（已过期）](./assets/certificate/koeki/koeki.html)\
+[日语N1](./assets/certificate/n1/n1.html)
 
 ## 教学课程
 [2020年面向日本高中生的10分钟公开课](./assets/openCourse/openCourse.html)
