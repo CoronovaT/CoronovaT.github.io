@@ -42,7 +42,7 @@ layout: default
 ## 证书
 [安川机器手臂操作证](./assets/certificate/yasukawa/yasukawa.html)\
 [DeepLearning.AI TensorFlow Developer(coursera结业证书)](./assets/certificate/coursera/coursera.html)\
-[東北公益文科大学（已过期教员证）](./assets/certificate/koeki/koeki.html)
+[東北公益文科大学教员证（已过期）](./assets/certificate/koeki/koeki.html)
 
 ## 教学课程
 
