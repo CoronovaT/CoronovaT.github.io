@@ -32,7 +32,7 @@ layout: default
 -研究开发\
 [三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术](./projects/digital_archive.html)\
 -博士论文\
--专利研发\
+-专利研发经验（参与研究，但名字未被注册）\
 [肘关节肌肉痉缩重症度评价支援系统的开发](./projects/muscle_injury.html)\
 [运用动作捕捉技术减少汽车组装时人工错误的技术](./projects/toyota.html)
 
