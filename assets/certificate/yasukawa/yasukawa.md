@@ -9,4 +9,4 @@ layout: default
 <img src="./yasukawa.JPG" style="width:100%;">
 拿证的时候我还很年轻
 
-[back](../../)
+[back](../../../)
