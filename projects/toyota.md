@@ -6,4 +6,4 @@ layout: default
 丰田的项目
 _yay_
 
-[back](./)
+[back](../)
