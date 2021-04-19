@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-iframe {
-    overflow:hidden;
-}
 
 ## 运用电磁式手部动作捕捉的数据建立人手的运动模型和针对手指的逆运动学算法开发
 <iframe src="./thesis-abstract.pdf" style="width:100%;overflow:hidden;" scrolling="no" frameborder="no"></iframe>\
