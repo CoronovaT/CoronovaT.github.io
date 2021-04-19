@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 酒田市光陵高校(課題研究)
-<iframe src="./R02_IT-ACE-short.pdf" style="width:100%;height:800px;" frameborder="no"></iframe>
+<iframe src="./R02_IT-ACE-short.pdf" style="width:100%;height:600px;" frameborder="no"></iframe>
 
 这是2020年，我指导高中学生做的课题研究。题目VR的校园观光。
 使用Lenovo Explorer头盔，显示校园的全景相机风景，实现身临其境的校园观光体验。
