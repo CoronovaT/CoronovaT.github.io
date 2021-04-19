@@ -6,7 +6,7 @@ layout: default
 <img src="./Inkedkyoinn.jpg" style="width:320px; height:240px;">
 <p>在当大学老师时候的教员证，虽然记载的日期还没到。
 但因为我辞职了，所以2021年4月已经归还。</p>
-<iframe src="./2020_038.pdf" style="width:100%; height:240px;" frameborder="no"></iframe>
+<iframe src="./2020_038.pdf" style="width:100%; height:480px;" frameborder="no"></iframe>
 <p>这是2020年学校对我的介绍</p>
 
 
