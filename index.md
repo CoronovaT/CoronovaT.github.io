@@ -36,8 +36,8 @@ layout: default
 -博士论文\
 [运用电磁式手部动作捕捉的数据建立人手的运动模型和针对手指的逆运动学算法开发](./projects/phd/phd.html)\
 -专利研发经验（参与研究，但名字未被注册）\
-[肘关节肌肉痉缩重症度评价支援系统的开发](./projects/muscle_injury.html)\
-[运用动作捕捉技术减少汽车组装时人工错误的技术](./projects/toyota.html)\
+[肘关节肌肉痉缩重症度评价支援系统的开发](./projects/muscle_injury/muscle_injury.html)\
+[运用动作捕捉技术减少汽车组装时人工错误的技术](./projects/toyota/toyota.html)\
 -跟高中的合作项目\
 [酒田市光陵高校(課題研究)](./projects/koryo/koryo.html)
 
