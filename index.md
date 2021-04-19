@@ -9,7 +9,7 @@ layout: default
 从事VR以及动作捕捉相关研究。2014年硕士毕业，进入博士阶段。2017年进入东北公益文科大学情报媒体学科开始做助教，
 从事Unity，Ruby，R语言，C语言的教学工作，传统舞蹈动作记录及相关研究。2019年3月博士毕业，2020年4月升职为讲师。\
 -联系方式\
-微信etomsontang\ 
+微信etomsontang\
 邮箱etomsontang@sina.com
 ## 职务经验
 
