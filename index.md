@@ -33,6 +33,7 @@ layout: default
 -研究开发\
 [三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术](./projects/pose/pose.html)\
 [日本文化遗产保护传承的IT技术研究](./projects/digital_archive/digital_archive.html)\
+[vr摘樱桃](./projects/cherry/cherry.html)\
 -博士论文\
 [运用电磁式手部动作捕捉的数据建立人手的运动模型和针对手指的逆运动学算法开发](./projects/phd/phd.html)\
 -专利研发经验（参与研究，但名字未被注册）\
