@@ -3,6 +3,8 @@ layout: default
 ---
 
 ## 日本文化遗产保护传承的IT技术研究
+<img src="./1.jpg">
+<img src="./2.jpg">
 所属机构\
 日本东北公益文科大学
 项目描述\
