@@ -51,3 +51,6 @@ layout: default
 
 ## 教学课程
 [2020年面向日本高中生的10分钟公开课](./assets/openCourse/openCourse.html)
+
+## test
+[网页流量计数测试](./n1.html)
