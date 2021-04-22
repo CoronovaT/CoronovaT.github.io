@@ -18,12 +18,13 @@ var _hmt = _hmt || [];
 从事VR以及动作捕捉相关研究。2014年硕士毕业，进入博士阶段。2017年进入东北公益文科大学情报媒体学科开始做助教，
 从事Unity，Ruby，R语言，C语言的教学工作，传统舞蹈动作记录及相关研究。2019年3月博士毕业，2020年4月升职为讲师。\
 -联系方式\
-微信 邮箱
+微信etomsontang\
+邮箱etomsontang@sina.com
 ## 职务经验
 
 | 学校        | 专业          | 学位 | 时间 |
 |:---------------|:--------------------|:------|:------|
-|日本，东北公益文科大学| 情报媒体学科|讲师   | 2020年4月-至今 |  
+|日本，东北公益文科大学| 情报媒体学科|讲师   | 2020年4月-2021年3月 |  
 |日本，东北公益文科大学| 情报媒体学科|助教    | 2017年4月-2020年3月|                                           
 
 ## 学历
@@ -39,17 +40,26 @@ var _hmt = _hmt || [];
 ## 项目经历
 
 -研究开发\
-[三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术](./projects/digital_archive.html)\
+[三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术](./projects/pose/pose.html)\
+[日本文化遗产保护传承的IT技术研究](./projects/digital_archive/digital_archive.html)\
+[vr摘樱桃](./projects/cherry/cherry.html)\
 -博士论文\
--专利研发\
-[肘关节肌肉痉缩重症度评价支援系统的开发](./projects/muscle_injury.html)\
-[运用动作捕捉技术减少汽车组装时人工错误的技术](./projects/toyota.html)
+[运用电磁式手部动作捕捉的数据建立人手的运动模型和针对手指的逆运动学算法开发](./projects/phd/phd.html)\
+-专利研发经验（参与研究，但名字未被注册）\
+[肘关节肌肉痉缩重症度评价支援系统的开发](./projects/muscle_injury/muscle_injury.html)\
+[运用动作捕捉技术减少汽车组装时人工错误的技术](./projects/toyota/toyota.html)\
+-跟高中的合作项目\
+[酒田市光陵高校(課題研究)](./projects/koryo/koryo.html)
 
-内容：运用带深度传感器的摄像头(Intel realsense d435)，从采集到的RGB人像和深度输数据用TensorFlow里的动作识别库进行动作识别，并运将处理后的动作数据投射到3D人物模型上。
-目前负责的部分：1.身体动作数据整体的降噪处理和各关节的位置数据算出姿势数据(欧拉角和矩阵的运算)。2. 调用google的机器学习平台TensorFlow已经训练好的人工智能模型(posenet)，取得人物的身体动作数据。并基于动作数据，训练人工智能网络，做动作识别。
 
 ## 证书
-安川机器手臂操作证
+[安川机器手臂操作证](./assets/certificate/yasukawa/yasukawa.html)\
+[DeepLearning.AI TensorFlow Developer(coursera结业证书)](./assets/certificate/coursera/coursera.html)\
+[東北公益文科大学教员证（已过期）](./assets/certificate/koeki/koeki.html)\
+[日语考试N1证书](./assets/certificate/n1/n1.html)
 
 ## 教学课程
+[2020年面向日本高中生的10分钟公开课](./assets/openCourse/openCourse.html)
 
+## test
+[网页流量计数测试](./count.html)
