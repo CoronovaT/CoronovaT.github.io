@@ -40,7 +40,7 @@ var _hmt = _hmt || [];
 ## 项目经历
 
 -研究开发\
-[一种基于深度学习的太阳能封装膜缺陷检测系统]（(./projects/solar_films/solar_films.html)\）
+[一种基于深度学习的太阳能封装膜缺陷检测系统](./projects/solar_films/solar_films.html)\
 [三维空间的数字保存系统的开发：运用摄像头的即时动作捕捉技术](./projects/pose/pose.html)\
 [日本文化遗产保护传承的IT技术研究](./projects/digital_archive/digital_archive.html)\
 [vr摘樱桃](./projects/cherry/cherry.html)\
